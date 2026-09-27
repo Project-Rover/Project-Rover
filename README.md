@@ -1,5 +1,3 @@
-# Project-Rover
-This will be a combined as well as centralised repo for the project assigned in the course AGR-201
 # 🚜 Rover Project Ecosystem
 
 This repository hosts a unified framework that combines perception, advanced autonomous navigation, multi-system integration, precision agricultural intelligence, reliable powertrain dynamics, and a robust physical rover architecture.
@@ -19,53 +17,36 @@ This repository hosts a unified framework that combines perception, advanced aut
 
 ---
 
-## 👥 Roster & Contributions
+## 👥 Roster & Team Allocations
 
-<details>
-<summary>👁️ Group 1: Sensors & Perception</summary>
+### 👁️ Group 1: Sensors & Perception
+* **Arsalan Firdous** · *Team Member*
+* **Zahra** · *Team Member*
+* **Chirag Kumawat** · *Team Member*
 
-* **Arsalan Firdous**
-* **Zahra**
-* **Chirag Kumawat**
-</details>
+### 🧭 Group 2: Localisation & Navigation
+* **Sarim Arjumand** · *Team Member*
+* **Emon Malik** · *Team Member*
+* **Syed Taha Andrabi** · *Team Member*
 
-<details>
-<summary>🧭 Group 2: Localisation & Navigation</summary>
+### 🔗 Group 3: Control & System Integration
+* **Arsh Altaf Tramboo** · *Team Member*
+* **Umer Islam Najar** · *Team Member*
+* **Mohd Ibrahim Bin** · *Team Member*
 
-* **Sarim Arjumand**
-* **Emon Malik**
-* **Syed Taha Andrabi**
-</details>
+### 🌾 Group 4: Agricultural Operation & AI
+* **Zynab Qudeema** · *Team Member*
+* **Hazim Mushtaq Bhat** · *Team Member*
+* **Munaza Mohiuddin** · *Team Member*
 
-<details>
-<summary>🔗 Group 3: Control & System Integration</summary>
+### ⚡ Group 5: Electric & Power Train
+* **Ahmad Kafeel Kanth** · *Team Member*
+* **Syeda Barika Sajad** · *Team Member*
+* **Mohammed Shaheer Mirza Beigh** · *Team Member*
 
-* **Arsh Altaf Tramboo**
-* **Umer Islam Najar**
-* **Mohd Ibrahim Bin**
-</details>
+### 🛠️ Group 6: Mechanical & Chassis
+* **Tarunpal Singh** · *Team Member*
+* **Mosin Mushtaq** · *Team Member*
+* **Sahil Shabir** · *Team Member*
 
-<details>
-<summary>🌾 Group 4: Agricultural Operation & AI</summary>
-
-* **Zynab Qudeema**
-* **Hazim Mushtaq Bhat**
-* **Munaza Mohiuddin**
-</details>
-
-<details>
-<summary>⚡ Group 5: Electric & Power Train</summary>
-
-* **Ahmad Kafeel Kanth**
-* **Syeda Barika Sajad**
-* **Mohammed Shaheer Mirza Beigh**
-</details>
-
-<details>
-<summary>🛠️ Group 6: Mechanical & Chassis</summary>
-
-* **Tarunpal Singh**
-* **Mosin Mushtaq**
-* **Sahil Shabir**
-</details>
-
+---
