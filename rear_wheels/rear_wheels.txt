@@ -1,0 +1,3 @@
+rear wheels are powered by two electrical motors which are configed by mechanical team
+from our side we plan to connect motors to arduino indivisually which will give greater control 
+to overall system over rover motion 

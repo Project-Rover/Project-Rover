@@ -1,0 +1,6 @@
+front steering is an essential part for moving the rover in desired direc
+we are using a motor, a servo mortor which is modded and only act as an rotation sensor which is in gear with the
+main steering motor ro tract its rotation
+motor is connected to a H-bridge which is connected to arduino to enable us control the motion
+this file is to keep the circuit diagramme and codes for arduino to control its rotation
+
