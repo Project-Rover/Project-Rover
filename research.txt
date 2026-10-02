@@ -1,0 +1,13 @@
+# Proposed Steering Design
+
+## Reference
+
+[Ackermann steering design demonstration](https://www.reddit.com/r/BambuLab/comments/1u24ahj/i_designed_and_3d_printed_a_working_ackermann/)
+
+The linked post demonstrates the proposed Ackermann steering design.
+
+## Manufacturing Approach
+
+The design requires metal components. Since we do not have access to a metal 3D printer, metal 3D printing is not currently an option.
+
+**Recommended approach:** fabricate the components and join them by welding.
